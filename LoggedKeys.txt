@@ -1,0 +1,9 @@
+why is this not logging properply 	Ccc UP  Down  Left  Right 
+
+
+ UP  UP  UP  UP 
+ Ctrl  Shift  Ctrl  Ctrl l Left  Right  UP  Down  Left  Ctrl 	 backspace 
+ UP  UP  Down 
+`1234567890-= backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace \][;'/., backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace  backspace 78946132,
+ {caps_lock}  {caps_lock}  {Shift}  {Shift}  {Ctrl}  {Ctrl}  {Alt}  {Alt} 		 {backspace}  {backspace} 
+ {Enter}  {Enter}  {Enter}  {UP}  {UP}  {Down}  {Enter}  {Cmd}  {UP}  {Enter}  {Enter}  {UP}  {Enter}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Cmd}  {Shift_R} :x {Enter}  {Ctrl} c
